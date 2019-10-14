@@ -1,0 +1,7 @@
+{
+    
+    "db_server": "192.168.9.115",
+    "db_user": "flw",
+    "db_password": "flw123",
+    "db_name": "mydb"
+}
